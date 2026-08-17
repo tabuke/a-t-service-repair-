@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "A-T Service Repair",
+    "slug": "a-t-service-repair",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
