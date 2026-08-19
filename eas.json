@@ -1,15 +1,15 @@
 {
-  "expo": {
-    "name": "A-T Service Repair",
-    "slug": "a-t-service-repair",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "android": {
-      "package": "com.atservice.repair"
-    }
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
   }
 }
